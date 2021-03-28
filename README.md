@@ -1,2 +1,0 @@
-# Mastering-MCU
-GPIO
